@@ -1,0 +1,15 @@
+next-prisma-tailwind/
+│
+├── package.json
+├── next.config.js
+├── postcss.config.js
+├── tailwind.config.js
+├── prisma/
+│   └── schema.prisma
+├── pages/
+│   ├── index.tsx
+│   └── api/
+│       └── users.ts
+├── styles/
+│   └── globals.css
+└── README.md
